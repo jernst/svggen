@@ -1,0 +1,13 @@
+circle {
+    fill: white;
+    stroke: none;
+}
+
+path {
+    XXfill: none;
+    fill: black;
+    XXstroke: black;
+    stroke: none;
+    stroke-width: 1px;
+    stroke-linejoin: round;
+}
